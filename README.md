@@ -2,7 +2,7 @@ Welcome! My name is Yonghoon Yoon. 👋🏼
 
 I am an enthusiastic data analyst and data scientist who loves to reveal the story that data hold.
 
-Location: Seoul, South Korea
+Location: Hamilton, MA <-> Seoul, South Korea
 Email: mryoon81@gmail.com
 LinkedIn: linkedin.com/in/growingwithyoon
 Education: 
@@ -11,16 +11,17 @@ Education:
 
 
 Technical Skills:
-
-Programming Languages: Python, SQL
-Machine Learning & AI: TensorFlow, PyTorch, Scikit-learn
-Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
+- Programming Languages: Python, SQL
+- Machine Learning & AI: TensorFlow, PyTorch, Scikit-learn
+- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
 
 Soft Skills:
-Ability to understand and work with diverse groups of people
-Critical thinking
-Communication kkills
-Teamwork
+- Ability to understand and work with diverse groups of people
+- Critical thinking
+- Communication skills
+- Teamwork
+
+I am looking forward to exploring partnerships with you!
 
 
 <!---
