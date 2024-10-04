@@ -3,11 +3,14 @@ Welcome! My name is Yonghoon Yoon. 👋🏼
 I am an enthusiastic data analyst and data scientist who loves to reveal the story that data hold.
 
 Location: Hamilton, MA <-> Seoul, South Korea
-/n Email: mryoon81@gmail.com
-/n LinkedIn: linkedin.com/in/growingwithyoon
+
+Email: mryoon81@gmail.com
+
+LinkedIn: linkedin.com/in/growingwithyoon
 
 Education: 
-- Bachelor of Science: Mathematics (Gordon College, MA)
+- Master of Education: Secondary Math Education (Gordon College, MA 2017)
+- Bachelor of Science: Mathematics (Gordon College, MA 2009)
 - Certificate: Applied Data Science Program: Leveraging AI for Effective Decision (MIT Professional Education, MA)
 
 
