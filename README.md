@@ -6,7 +6,7 @@ Location: Hamilton, MA <-> Seoul, South Korea
 
 Email: mryoon81@gmail.com
 
-LinkedIn: linkedin.com/in/growingwithyoon
+LinkedIn: linkedin.com/in/growingwithyoon 
 
 Education: 
 - Master of Education: Secondary Math Education (Gordon College, MA 2017)
